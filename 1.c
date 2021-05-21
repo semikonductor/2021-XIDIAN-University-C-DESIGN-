@@ -1,3 +1,7 @@
+//高精度计算
+//只实现了正数的加减操作。
+
+
 #include <stdio.h>
 #include<string.h>
 int scan(char s[])

@@ -1,3 +1,6 @@
+//图书管理系统yyds！！！
+//没有复杂的算法，功能函数可以 参考一下。
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>

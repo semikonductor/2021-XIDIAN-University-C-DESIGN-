@@ -1,3 +1,6 @@
+//RLE解压缩算法
+//没啥好说的，提前看懂算法就行啦
+
 #include <stdio.h>
 #include <stdlib.h> //malloc
 #include <string.h> //strcmp

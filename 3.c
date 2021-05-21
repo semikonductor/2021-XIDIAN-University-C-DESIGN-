@@ -1,3 +1,6 @@
+//BMP位图缩放
+//记得提前学一下BMP图片的文件结构，和双线性插值……
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>

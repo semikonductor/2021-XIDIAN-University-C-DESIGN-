@@ -1,3 +1,9 @@
+//堆栈模拟
+//老师更喜欢用链表的同学（应该和可变长度有关吧）
+//记得没有元素时的Pop和GetElement要考虑到。
+
+
+
 #include<stdio.h>//实在是不会用函数把pop ，push等动作表示，结构体中还有指针很难操作。
 #include <stdlib.h>
 #define ADD 10//如果栈已有空间不够，每次加10个int
